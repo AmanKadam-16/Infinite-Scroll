@@ -8,7 +8,7 @@
 
 1. Clone the repository
 ```bash
-git clone https://your-repo-url.git
+git clone https://github.com/AmanKadam-16/Infinite-Scroll.git
 cd unsplash-infinite-scroll
 ```
 
